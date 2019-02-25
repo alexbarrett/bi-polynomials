@@ -1,0 +1,16 @@
+{
+  "name": "polynomials",
+  "version": "1.0.0",
+  "main": "src/serve.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alex Barrett <dev@alexbarrett.com>",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "supertest": "^3.4.2"
+  }
+}
